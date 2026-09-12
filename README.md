@@ -1,6 +1,6 @@
 # HUFS 대학원 딥러닝 · 실데이터 실습 노트북
 
-한국외국어대학교 GBT 대학원 딥러닝 세미나 실습 시리즈의 Colab 노트북.
+한국외국어대학교 국제경영학과 대학원 딥러닝 세미나 실습 시리즈의 Colab 노트북.
 강의 페이지: https://hufs-ai-lecture.pages.dev/practice/
 
 | 회차 | 노트북 | Colab |
