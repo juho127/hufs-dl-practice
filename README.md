@@ -12,3 +12,11 @@
 
 각 노트북은 ① 데이터 로드 셀만 바꾸면 자기 데이터에 그대로 돈다. 텍스트·이미지 회차는 Cloudflare Workers AI 무료 계정의 API 토큰이 필요하다(노트북 첫 셀에서 입력).
 데이터: 서울 지하철 일별 총승차(`data/subway_daily_total.csv`, 서울 열린데이터광장 OA-12914 를 일 단위로 합산). 나머지 데이터는 노트북이 공개 URL 에서 직접 받는다.
+
+## 학부 「인공지능」 보너스 실습
+
+| 실습 | 노트북 | Colab |
+|---|---|---|
+| 낙서 맞히기 AI (Quick, Draw! CNN · 그림판 게임 · 데이터 증강 · 확산 모델) | `undergrad/lab07b_doodle.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07b_doodle.ipynb) |
+
+안내 페이지: https://hufs-ai-lecture.pages.dev/ai/doodle · 데이터: Google Quick, Draw! Dataset (CC BY 4.0), 노트북이 카테고리별 앞부분 6,000장만 직접 받는다.
