@@ -17,6 +17,7 @@
 
 | 실습 | 노트북 | Colab |
 |---|---|---|
-| 낙서 맞히기 AI (Quick, Draw! CNN · 그림판 게임 · 데이터 증강 · 확산 모델) | `undergrad/lab07b_doodle.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07b_doodle.ipynb) |
+| 1회차 · 낙서 맞히기 AI (Quick, Draw! CNN · 그림판 게임 · 데이터 증강 · 확산 모델) | `undergrad/lab07b_doodle.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07b_doodle.ipynb) |
+| 2회차 · AI 그림 공방 (낙서→작품 · AI 전화 게임 · 조건부 확산과 가이던스, Cloudflare Workers AI 무료 토큰 필요) | `undergrad/lab07c_studio.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07c_studio.ipynb) |
 
 안내 페이지: https://hufs-ai-lecture.pages.dev/ai/doodle · 데이터: Google Quick, Draw! Dataset (CC BY 4.0), 노트북이 카테고리별 앞부분 6,000장만 직접 받는다.
