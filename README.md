@@ -20,5 +20,8 @@
 | 1회차 · 낙서 맞히기 AI (Quick, Draw! CNN · 그림판 게임 · 데이터 증강 · 확산 모델) | `undergrad/lab07b_doodle.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07b_doodle.ipynb) |
 | 2회차 · AI 그림 공방 (낙서→작품 · AI 전화 게임 · 조건부 확산과 가이던스, Cloudflare Workers AI 무료 토큰 필요) | `undergrad/lab07c_studio.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07c_studio.ipynb) |
 | RNN · 한 단어씩 읽는 감성 AI (NSMC 감성 분류 · RNN 대 LSTM · 단어별 판단 변화 · AI 리뷰 작가) | `undergrad/lab07d_sentiment.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07d_sentiment.ipynb) |
+| RNN · 주가 예측: 삼성전자와 SK하이닉스 (30거래일 창 · 기본 RNN·LSTM·GRU · 「어제 종가 그대로」 기준선 · 간밤 마이크론 입력 · 모의투자 · 사람 대 AI 게임) | `undergrad/lab07e_stock.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juho127/hufs-dl-practice/blob/main/undergrad/lab07e_stock.ipynb) |
 
 안내 페이지: https://hufs-ai-lecture.pages.dev/ai/doodle · 데이터: Google Quick, Draw! Dataset (CC BY 4.0), 노트북이 카테고리별 앞부분 6,000장만 직접 받는다.
+
+주가 예측 노트북은 실행할 때 FinanceDataReader로 일봉을 받는다(삼성전자·SK하이닉스는 네이버 금융, 마이크론은 야후 파이낸스). `data/stock_005930.csv`, `data/stock_000660.csv`, `data/stock_MU.csv`는 2026-11-17까지의 시가·종가 사본이며, 직접 받기에 실패할 때만 쓴다. 수업용 실험이며 투자 권유가 아니다.
